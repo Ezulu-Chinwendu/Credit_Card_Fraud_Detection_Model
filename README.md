@@ -1,5 +1,7 @@
 # Credit Card Fraud Prediction Using Logistic Regression Model
-Overview
+
+### Overview
+
 This project aims to build a machine learning model to predict fraudulent credit card transactions using logistic regression. Given the rise in digital payments and cyber crimes, detecting fraud is crucial. This project addresses the challenge of imbalanced datasets, where fraudulent transactions are significantly less common than legitimate ones. By leveraging logistic regression, the project evaluates the model's performance and applies techniques to improve predictions on rare fraudulent transactions.
 
 ### Dataset
